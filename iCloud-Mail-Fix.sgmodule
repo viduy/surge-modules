@@ -2,5 +2,5 @@
 #!desc = 修正 iCloud 邮件无法收发邮件的问题
 
 [Host]
-*smtp.mail.icloud.com.cn = 17.56.8.137
-*imap.mail.icloud.com.cn = 17.56.9.15
+*smtp.mail.icloud.com.cn = 17.56.9.20
+*imap.mail.icloud.com.cn = 17.57.154.25
