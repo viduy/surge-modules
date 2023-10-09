@@ -1,4 +1,4 @@
-#!name = iCloud-Mail-Fix
+#!name = iCloud Mail Fix
 #!desc = 修正 iCloud 邮件无法收发邮件的问题
 
 [Host]
