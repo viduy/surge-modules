@@ -1,6 +1,5 @@
-#!name = iCloud Mail Fix
-#!desc = 修正 iCloud 邮件无法收发邮件的问题
+#!name = Fix iCloud Mail
+#!desc = 修正 macOS iCloud 无法收发邮件的问题
 
 [Host]
-*smtp.mail.icloud.com.cn = 17.56.9.20
 *imap.mail.icloud.com.cn = 17.57.154.25
