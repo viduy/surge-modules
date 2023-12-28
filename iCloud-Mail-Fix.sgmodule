@@ -2,4 +2,7 @@
 #!desc = 修正 macOS iCloud 无法收发邮件的问题
 
 [Host]
-*imap.mail.icloud.com.cn = 17.57.154.25
+*imap.mail.icloud.com.cn = imap.mail.icloud.com
+*smtp.mail.icloud.com.cn = smtp.mail.icloud.com
+*contacts.icloud.com = contacts.icloud.com
+
